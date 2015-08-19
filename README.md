@@ -21,3 +21,7 @@ D:\Tool_Android_Studio\android_studio\gradle\gradle-2.2.1
 
 会弹出个github设置窗，设置好名称和描述，就可以在GiHub上新建一个repository，然后就可以push和pull代码了。
 （注意是：github本就没有的这个仓库的。）
+
+
+在github改动，在asndroid studio进行checkout
+
